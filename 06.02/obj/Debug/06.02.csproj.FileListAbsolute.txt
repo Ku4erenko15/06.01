@@ -1,0 +1,7 @@
+D:\проекты\06.02\bin\Debug\06.02.exe.config
+D:\проекты\06.02\bin\Debug\06.02.exe
+D:\проекты\06.02\bin\Debug\06.02.pdb
+D:\проекты\06.02\obj\Debug\06.02.csproj.AssemblyReference.cache
+D:\проекты\06.02\obj\Debug\06.02.csproj.CoreCompileInputs.cache
+D:\проекты\06.02\obj\Debug\06.02.exe
+D:\проекты\06.02\obj\Debug\06.02.pdb

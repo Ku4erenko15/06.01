@@ -26,10 +26,8 @@ namespace _06._02
             public double num1;
             public double num2;
 
-            // Конструктор без параметров
             public Calculate() : this(0, 0) { }
 
-            // Конструктор с одним параметром
             public Calculate(double num) : this(num, num) { }
             public Calculate(double num1, double num2)
             {
@@ -37,18 +35,15 @@ namespace _06._02
                 this.num2= num2;
             }
 
-            // Функция формирования строки с информацией об объекте
             public override string ToString()
             {
                 return $"Num1: {num1}, Num2: {num2}";
             }
 
-            // Функция вычисления корня квадратного из произведения чисел
             public double CalculateRoot()
             {
                 return Math.Sqrt(num1 * num2);
             }
         }
-
     }
 }
